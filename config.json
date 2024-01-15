@@ -11,9 +11,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "",
-    "PREFIX": "!",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "USERID1",
+        "61554918250554",
         "USERID2"
     ],
     "DATABASE": {
